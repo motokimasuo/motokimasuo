@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## SUMMARY
+## ABOUT ME
 
 Experienced Engineer specializing in Blockchain and AI, with a focus on developing innovative and impactful products. Skilled in creating secure and scalable solutions, including smart contracts, decentralized applications, and AI-powered systems.
 
