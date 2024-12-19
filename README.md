@@ -5,7 +5,7 @@
 </p>
 
 ##
-<h1 align="center">
+<h1>
 Summury
 </h1>
 ##
