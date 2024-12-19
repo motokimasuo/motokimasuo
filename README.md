@@ -8,4 +8,10 @@
 <h1>
 Summury
 </h1>
+
 ##
+<p>
+Experienced Engineer specializing in Blockchain and AI, with a focus on developing innovative and impactful products. Skilled in creating secure and scalable solutions, including smart contracts, decentralized applications, and AI-powered systems.
+
+Passionate about combining blockchain's transparency with AI's intelligence to solve complex challenges and deliver user-focused, cutting-edge technologies. A collaborative professional dedicated to driving progress and turning ideas into reality.
+</p>
