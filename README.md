@@ -14,7 +14,7 @@
 🔹 🎨 **UI/UX Design**   
 🔹 🖥️ **Frontend Developement**  
 🔹 🖧 **Backend Developement**  
-🔹 ✍️ **Smart Contract Developement** 
+🔹 ✍️ **Smart Contract Developement**  
 🔹 🌐 **Web3 Integration**  
 🔹 🤖 **AI Integration**  
 
