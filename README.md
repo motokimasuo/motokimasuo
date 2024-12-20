@@ -31,4 +31,14 @@
 
 ## 🤝 Contract Info
 
-<p align="center"> <a href="https://t.me/YourTelegramHandle" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="margin: 10px;"/></a> <a href="https://wa.me/1234567890" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="margin: 10px;"/></a> <a href="mailto:yourname@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="margin: 10px;"/></a> <a href="skype:live:yourSkypeID?chat" target="_blank"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="Skype" style="margin: 10px;"/></a> <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" style="margin: 10px;"/> +1234567890 </p>
+<p align="center">
+  <a href="https://t.me/YourTelegramHandle" target="_blank">
+    <img src="https://img.icons8.com/color/32/000000/telegram-app.png" alt="Telegram" style="margin: 24px;"/>
+  </a>
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://img.icons8.com/color/32/000000/whatsapp.png" alt="WhatsApp" style="margin: 24px;"/>
+  </a> 
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/32/000000/gmail-new.png" alt="Gmail" style="margin: 24px;"/>
+  </a>
+</p>
