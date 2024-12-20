@@ -20,6 +20,11 @@
 
 ## 💼 Experience
 
-🔹 Blockchain AI Engineer at Tech Innovations Ltd. (2018–Present)
-
+🔹 **Lead Engineer** at **Advalorem Team • US**. *(2018–Present)*  
+🔹 **Senior Blockchain Developer** at **Sanshu Team • UK**. *(2018–Present)*  
+🔹 **Senior Blockchain Developer** at **MC² Finance • Switzerland**. *(2018–Present)*  
+🔹 **Junior Blockchain Developer** at **Drangonz Land Team • Pland**. *(2018–Present)*  
+🔹 **Project Manager** at **UDATA Inc. • Tokyo**. *(2018–Present)*  
+🔹 **Senior Full Stack Developer** at **Tech Innovations Ltd • Tokyo**. *(2018–Present)*  
+🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(2018–Present)*  
 
