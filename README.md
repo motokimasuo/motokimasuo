@@ -4,10 +4,10 @@
 
 ## 💻 About Me
 
-🌟 Experienced Engineer specializing in **Blockchain** and **AI**, focused on building innovative, impactful products. 
-🔒 Skilled in creating secure and scalable solutions, including **smart contracts**, **decentralized applications**, and **AI-powered systems**. 
-🚀 Passionate about combining blockchain's transparency with AI's intelligence to solve complex challenges and deliver cutting-edge technologies. 
-🤝 A collaborative professional dedicated to driving progress and turning ideas into reali
+⋅⋅⋅🌟 Experienced Engineer specializing in **Blockchain** and **AI**, focused on building innovative, impactful products. 
+⋅⋅⋅🔒 Skilled in creating secure and scalable solutions, including **smart contracts**, **decentralized applications**, and **AI-powered systems**. 
+⋅⋅⋅🚀 Passionate about combining blockchain's transparency with AI's intelligence to solve complex challenges and deliver cutting-edge technologies. 
+⋅⋅⋅🤝 A collaborative professional dedicated to driving progress and turning ideas into reali
 
 ## 🛠️ Sevices
 
