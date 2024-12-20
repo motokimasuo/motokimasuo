@@ -27,5 +27,22 @@
 🔹 **Project Manager** at **UDATA Inc. • Tokyo**. *(2020.04-2020.12)*  
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(2019.03-2020.03)*  
 🔹 **Senior Full Stack Developer** at **Tech Innovations Ltd • Tokyo**. *(2018.01–2019.02)*  
-🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(2017.04-2017.12)*  
+🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(2017.04-2017.12)*
 
+## 🤝 Contract Info
+
+<p align="center"> 
+  <a href="https://t.me/YourTelegramHandle">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/1234567890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="skype:live:yourSkypeID?chat">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <img src="https://img.shields.io/badge/Phone-123--456--7890-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+</p>
