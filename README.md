@@ -11,12 +11,12 @@
 
 ## 🛠️ Sevices
 
-* ✍️ Smart Contract Developement
-* 🎨 UI/UX Design
-* 🖥️ Frontend Developement
-* 🖧 Backend Developement
-* 🌐 Web3 Integration
-* 🤖 AI Integration
+🔹 ✍️ Smart Contract Developement  
+🔹 🎨 UI/UX Design  
+🔹 🖥️ Frontend Developement  
+🔹 🖧 Backend Developement  
+🔹 🌐 Web3 Integration  
+🔹 🤖 AI Integration  
 
 ## 💼 Experience
 
