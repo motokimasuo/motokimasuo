@@ -31,18 +31,4 @@
 
 ## 🤝 Contract Info
 
-<p align="center"> 
-  <a href="https://t.me/YourTelegramHandle">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://wa.me/1234567890">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="skype:live:yourSkypeID?chat">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <img src="https://img.shields.io/badge/Phone-123--456--7890-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-</p>
+<p align="center"> <a href="https://t.me/YourTelegramHandle" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="margin: 10px;"/></a> <a href="https://wa.me/1234567890" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="margin: 10px;"/></a> <a href="mailto:yourname@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="margin: 10px;"/></a> <a href="skype:live:yourSkypeID?chat" target="_blank"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="Skype" style="margin: 10px;"/></a> <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" style="margin: 10px;"/> +1234567890 </p>
