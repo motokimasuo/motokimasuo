@@ -21,9 +21,9 @@
 ## 💼 Experience
 
 🔹 **Lead Engineer** at **Advalorem Team • US**. *(2023.06–Present)*  
-🔹 **Senior Blockchain Developer** at **Sanshu Team • UK**. *(2022.12–2023.05)*  
-🔹 **Senior Blockchain Developer** at **MC² Finance • Switzerland**. *(2021.12–2022.11)*  
-🔹 **Junior Blockchain Developer** at **Drangonz Land Team • Poland**. *(2021.01–2021.11)*  
+🔹 **Senior Blockchain Developer** at **Drangonz Land Team • Poland**. *(2022.12–2023.05)*  
+🔹 **Senior Blockchain Developer** at **Sanshu Team • UK**. *(2021.12–2022.11)*  
+🔹 **Junior Blockchain Developer** at **MC² Finance • Switzerland**. *(2021.01–2021.11)*  
 🔹 **Project Manager** at **UDATA Inc. • Tokyo**. *(2020.04-2020.12)*  
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(2019.03-2020.03)*  
 🔹 **Senior Full Stack Developer** at **Tech Innovations Ltd • Tokyo**. *(2018.01–2019.02)*  
