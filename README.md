@@ -26,8 +26,7 @@
 🔹 **Junior Blockchain Developer** at **MC² Finance • Switzerland**. *(2021.01–2021.11)*  
 🔹 **Project Manager** at **UDATA Inc. • Tokyo**. *(2020.04-2020.12)*  
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(2019.03-2020.03)*  
-🔹 **Senior Full Stack Developer** at **Tech Innovations Ltd • Tokyo**. *(2018.01–2019.02)*  
-🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(2017.04-2017.12)*
+🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(2017.04-2019.02)*
 
 ## 🤝 Contract Info
 
