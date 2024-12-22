@@ -18,7 +18,7 @@
 🔹 🌐 **Web3 Integration**  
 🔹 🤖 **AI Integration**  
 
-## 💼 Experience
+<!-- ## 💼 Experience
 
 🔹 **Lead Engineer** at **Advalorem Team • US**. *(06/2023–Present)*  
 🔹 **Senior Blockchain Developer** at **Drangonz Land Team • Poland**. *(12/2022–05/2023)*  
@@ -26,7 +26,7 @@
 🔹 **Junior Blockchain Developer** at **MC² Finance • Switzerland**. *(01/2021–11/2021)*  
 🔹 **Project Manager** at **UDATA Inc. • Tokyo**. *(04/2020-12/2020)*  
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(03/2019-03/2020)*  
-🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(04/2017-02/2019)*
+🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(04/2017-02/2019)* -->
 
 ## 🤝 Contract Info
 
