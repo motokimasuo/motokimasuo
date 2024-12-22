@@ -28,6 +28,10 @@
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(03/2019-03/2020)*  
 🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(04/2017-02/2019)* -->
 
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 🤝 Contract Info
 
 [![alt text](https://img.icons8.com/color/32/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
