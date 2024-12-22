@@ -30,7 +30,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vue,nuxtjs,astro,angular,wordpress,nodejs,aws,azure,c,cpp,cs,django,docker,dotnet,electron,express)](https://github.com/motokimasuo)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vue,nuxtjs,astro,angular,wordpress,nodejs,aws,azure,c,cpp,cs,python,django,fastapi,docker,dotnet,electron,express,go,rust,java)](https://github.com/motokimasuo)
 
 ## 🤝 Contract Info
 
