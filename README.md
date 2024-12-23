@@ -11,12 +11,13 @@
 
 ## 💼 Sevices
 
-🔹 🎨 **UI/UX Design**   
-🔹 🖥️ **Frontend Developement**  
-🔹 ⚓ **Backend Developement**  
-🔹 ✍️ **Smart Contract Developement**  
-🔹 🌐 **Web3 Integration**  
-🔹 🤖 **AI Integration**  
+🔹 🎨 **UI/UX Design** - Figma / Adobe XD   
+🔹 🖥️ **Frontend Developement** - Next.js / React.js / Vue.js / Nuxt.js / Angular.js / Tailwind css etc  
+🔹 ⚓ **Backend Developement** - Node.js / Django / FastAPI / ASP.NET / Express.js / Nest.js etc  
+🔹 💾 **Database Design** - MongoDB / PostgreSQL / MySQL / Supabase / Firebase etc  
+🔹 ✍️ **Smart Contract Developement** - Solidity / Rust / Move / Python / Go etc  
+🔹 🌐 **Web3 Integration** - WEB3.js / Viem.js / Ethers.js / Wagmi / Web3auth / Particle / Magic / Soroban SDK / Polkadot SDK etc  
+🔹 🤖 **AI Integration** - OpenAI / Stability AI / KlingAI / AI Agent / LLM etc  
 
 <!-- ## 💼 Experience
 
