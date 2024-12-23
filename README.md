@@ -9,7 +9,7 @@
 🚀 Passionate about combining blockchain's transparency with AI's intelligence to solve complex challenges and deliver cutting-edge technologies.  
 🤝 A collaborative professional dedicated to driving progress and turning ideas into reality.  
 
-## 🛠️ Sevices
+## 💼 Sevices
 
 🔹 🎨 **UI/UX Design**   
 🔹 🖥️ **Frontend Developement**  
