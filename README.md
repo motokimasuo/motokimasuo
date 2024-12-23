@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Developer;Blockchain+AI+Engineer;8+years+of+experience;High+productivity+%26+Best+communication">
 </p>
 
-## 💻 About Me
+## 💡 About Me
 
 🌟 Experienced Engineer specializing in **Blockchain** and **AI**, focused on building innovative, impactful products.  
 🔒 Skilled in creating secure and scalable solutions, including **smart contracts**, **decentralized applications**, and **AI-powered systems**.  
@@ -13,7 +13,7 @@
 
 🔹 🎨 **UI/UX Design**   
 🔹 🖥️ **Frontend Developement**  
-🔹 🖧 **Backend Developement**  
+🔹 ⚓ **Backend Developement**  
 🔹 ✍️ **Smart Contract Developement**  
 🔹 🌐 **Web3 Integration**  
 🔹 🤖 **AI Integration**  
@@ -28,11 +28,11 @@
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(03/2019-03/2020)*  
 🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(04/2017-02/2019)* -->
 
-## 🛠 Skills
+## 🛠️ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vue,nuxtjs,astro,angular,wordpress,nodejs,aws,azure,c,cpp,cs,java,python,django,fastapi,docker,dotnet,electron,solidity,go,rust,mongodb,postgres)](https://github.com/motokimasuo)
 
-## 🤝 Contract Info
+## 🔗 Connect With Me
 
 [![alt text](https://img.icons8.com/color/32/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
 [![alt text](https://img.icons8.com/color/32/000000/whatsapp.png "Whatsapp")](https://wa.me/817089764369)
