@@ -36,8 +36,8 @@
 
 ## 🔗 Connect With Me
 
-[![alt text](https://img.icons8.com/color/32/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
-[![alt text](https://img.icons8.com/color/32/000000/whatsapp.png "Whatsapp")](https://wa.me/817089764369)
-[![alt text](https://img.icons8.com/color/32/000000/discord.png "Discord")](https://discordapp.com/users/318810920686059521)
-[![alt text](https://img.icons8.com/color/32/000000/gmail-new.png "Gmail")](mailto:motokimasuo89@gmail.com)
-[![alt text](https://img.icons8.com/color/32/000000/skype.png "Skype")](https://join.skype.com/invite/qqzRgpFV0TrY)
+[![alt text](https://img.icons8.com/color/36/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
+[![alt text](https://img.icons8.com/color/36/000000/whatsapp.png "Whatsapp")](https://wa.me/817089764369)
+[![alt text](https://img.icons8.com/color/36/000000/discord.png "Discord")](https://discordapp.com/users/318810920686059521)
+[![alt text](https://img.icons8.com/color/36/000000/gmail-new.png "Gmail")](mailto:motokimasuo89@gmail.com)
+[![alt text](https://img.icons8.com/color/36/000000/skype.png "Skype")](https://join.skype.com/invite/qqzRgpFV0TrY)
