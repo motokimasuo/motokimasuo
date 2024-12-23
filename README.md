@@ -9,7 +9,7 @@
 🚀 Passionate about combining blockchain's transparency with AI's intelligence to solve complex challenges and deliver cutting-edge technologies.  
 🤝 A collaborative professional dedicated to driving progress and turning ideas into reality.  
 
-## 💼 Sevices
+## 🛠️ My Tech Stack
 
 - 🎨 **UI/UX Design** - Figma / Adobe XD   
 - 🖥️ **Frontend Developement** - Next.js / React.js / Vue.js / Nuxt.js / Angular.js / Tailwind css etc  
@@ -30,7 +30,7 @@
 🔹 **Senior Full Stack Developer** at **Callisto Inc. • Tokyo**. *(03/2019-03/2020)*  
 🔹 **Full Stack Developer** at **Line Media Research Co., Ltd. • Tokyo**. *(04/2017-02/2019)* -->
 
-## 🛠️ My Tech Stack
+## 💼 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vue,nuxtjs,astro,angular,wordpress,nodejs,aws,azure,c,cpp,cs,java,python,django,fastapi,docker,dotnet,electron,solidity,go,rust,mongodb,postgres)](https://github.com/motokimasuo)
 
