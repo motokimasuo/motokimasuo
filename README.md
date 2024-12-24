@@ -38,7 +38,7 @@
 [![Resume](https://img.icons8.com/color/48/000000/google-docs.png "Resume")](https://drive.google.com/file/d/13aCEVB7wOcyR35jhMo-a44oIvCxwrx7e/view?usp=drive_link)
 [![Website](https://img.icons8.com/color/48/000000/domain.png "Website")](https://www.motokimasuo.com)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png "Gmail")](mailto:motokimasuo89@gmail.com)
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
 [![Whatsapp](https://img.icons8.com/color/48/000000/whatsapp.png "Whatsapp")](https://wa.me/817089764489)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
 [![Discord](https://img.icons8.com/color/48/000000/discord.png "Discord")](https://discordapp.com/users/318810920686059521)
 <!-- [![alt text](https://img.icons8.com/color/48/000000/skype.png "Skype")](https://join.skype.com/invite/qqzRgpFV0TrY) -->
