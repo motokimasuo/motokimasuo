@@ -25,6 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vue,nuxtjs,astro,angular,wordpress,nodejs,aws,azure,c,cpp,cs,java,python,django,fastapi,docker,dotnet,electron,solidity,go,rust,mongodb,postgres)](https://github.com/motokimasuo)
 
 ## 🔗 Connect With Me
+
 [![Resume](https://img.icons8.com/color/48/000000/google-docs.png "Resume")](https://drive.google.com/file/d/11wsq9Oyo09r4JStXujZVjDomTRGEJnxt/view?usp=drive_link)
 [![Website](https://img.icons8.com/color/48/000000/domain.png "Website")](https://motokimasuo.com)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png "Gmail")](mailto:motokimasuo89@gmail.com)
