@@ -32,4 +32,5 @@
 [![Whatsapp](https://img.icons8.com/color/48/000000/whatsapp.png "Whatsapp")](https://wa.me/817089764489)
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
 [![Discord](https://img.icons8.com/color/48/000000/discord.png "Discord")](https://discordapp.com/users/318810920686059521)
-[![alt text](https://img.icons8.com/color/48/000000/skype.png "Skype")](https://join.skype.com/invite/g7Gw6KU1gsWR)
+[![Skype](https://img.icons8.com/color/48/000000/skype.png "Skype")](https://join.skype.com/invite/g7Gw6KU1gsWR)
+[![Youtube](https://img.icons8.com/color/48/000000/youtube-play.png "Youtube")](https://www.youtube.com/@MotokiMasuo)
