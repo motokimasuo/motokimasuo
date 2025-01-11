@@ -33,4 +33,3 @@
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png "Telegram")](https://t.me/motokimasuo)
 [![Discord](https://img.icons8.com/color/48/000000/discord.png "Discord")](https://discordapp.com/users/318810920686059521)
 [![Skype](https://img.icons8.com/color/48/000000/skype.png "Skype")](https://join.skype.com/invite/g7Gw6KU1gsWR)
-[![Youtube](https://img.icons8.com/color/48/000000/youtube-play.png "Youtube")](https://www.youtube.com/@MotokiMasuo)
